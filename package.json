@@ -1,0 +1,22 @@
+{
+  "name": "ethonline",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ethers": "^5.7.0",
+    "hardhat": "^2.11.1",
+    "reflect-metadata": "^0.1.13"
+  },
+  "dependencies": {
+    "@aave/contract-helpers": "^1.7.0",
+    "@aave/math-utils": "^1.7.0",
+    "dayjs": "^1.11.5"
+  }
+}
