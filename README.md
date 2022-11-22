@@ -1,6 +1,6 @@
 <img src="./icon.jpg" width="200">
 
-# OnSODA
+# onSODA
 ETH Online 2022 [link](https://ethglobal.com/showcase/onestoporderdispatch-jt223)
 ## Introduction 
 
